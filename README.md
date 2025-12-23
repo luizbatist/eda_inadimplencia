@@ -43,8 +43,8 @@ A análise explora variáveis demográficas e financeiras, com ênfase em **limi
 ---
 
 ## 🔗 Links
-- **GitHub:** https://github.com/SEU_USUARIO  
-- **Portfólio do Projeto:** https://SEU_LINK_DO_PORTFOLIO  
+- **GitHub:** https://github.com/luizbatist  
+- **Portfólio do Projeto:** https://github.com/luizbatist/eda_inadimplencia  
 
 ---
 
